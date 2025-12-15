@@ -54,21 +54,21 @@ home_credit/
 The analysis focuses on three core areas:
 
 ### 1. Executive Risk Overview
-![Executive Risk Overview](images/executive-risk-overview.png)
+![Executive Risk Overview](images/home_credit-1.png)
 - Portfolio-level default rate
 - Distribution of high-risk customers
 - Overall affordability and exposure indicators
   
 
 ### 2. Customer Risk Segmentation
-![Customer Risk Segments](images/customer-risk-segments.png)
+![Customer Risk Segments](images/home_credit-2.png)
 
 - Default risk by age and income bands
 - Behavioural risk driven by previous credit refusals
 - Identification of concentrated risk pockets
 
 ### 3. Policy & Scenario Analysis
-![Policy & Scenario Analysis](images/policy-scenario-analysis.png)
+![Policy & Scenario Analysis](images/home_credit-3.png)
 - Credit-to-income (CTI) threshold evaluation
 - Trade-offs between approval volume and default risk
 - Identification of policy inflection points
