@@ -46,18 +46,6 @@ Due to GitHub file size limitations, the prepared analytical dataset is provided
 All files can be extracted locally to reproduce the SQL pipeline, Power BI dashboards, and analytical results.
 
 ---
-
-## Repository Structure
-
-```text
-home_credit/
-│
-├── data/        # Prepared analytical datasets (compressed)
-├── images/      # Dashboard screenshots
-├── power bi/    # Power BI PBIX files
-├── report/      # Final analytical report
-└── README.md
-
 ## Repository Structure
 
 home_credit/
